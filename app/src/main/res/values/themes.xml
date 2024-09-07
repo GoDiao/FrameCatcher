@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <style name="Theme.Framecatcher" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 自定义的主题属性 -->
+        <item name="colorPrimary">@color/your_primary_color</item>
+        <item name="colorPrimaryDark">@color/your_primary_dark_color</item>
+        <item name="colorAccent">@color/your_accent_color</item>
+    </style>
+</resources>
